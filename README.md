@@ -212,6 +212,7 @@ pip install -v -e .
 After install the two repos, install timm and einops, i.e.,
 ```bash
 pip install timm==0.4.9 einops
+pip install --no-binary :all: xtcocotools 
 ```
 
 After downloading the pretrained models, please conduct the experiments by running
