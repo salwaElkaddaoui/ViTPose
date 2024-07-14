@@ -11,7 +11,10 @@ data/
 data/*
 
 # pretrained models folder
-pretrained/ 
+pretrained/
+
+#output training folder
+train_outdir/ 
 
 # Distribution / packaging
 .Python
