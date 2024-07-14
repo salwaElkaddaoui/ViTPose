@@ -10,6 +10,9 @@ __pycache__/
 data/
 data/*
 
+# pretrained models folder
+pretrained/ 
+
 # Distribution / packaging
 .Python
 build/
